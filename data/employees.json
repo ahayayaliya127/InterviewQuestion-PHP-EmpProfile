@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1747198171",
+        "name": "MUHAMMAD ADAM BIN MOHD ANUAR",
+        "gender": "Male",
+        "marital_status": "Single",
+        "phone": "0123456789",
+        "email": "adamanuarpgn@gmail.com",
+        "address": "NO 12, Bertam Perdana, Kepala Batas, Penang",
+        "dob": "2005-05-07",
+        "nationality": "Malaysian",
+        "hire_date": "2025-05-14",
+        "department": "IT",
+        "created_at": "2025-05-14 04:49:31"
+    },
+    {
+        "name": "SITI NUR ALIA BINTI YAHAYA",
+        "gender": "Female",
+        "marital_status": "Single",
+        "phone": "01126250533",
+        "email": "aliayahaya127@gmail.com",
+        "address": "NO.19A, KG LEMBAH RAJA, PINANG TUNGGAL",
+        "dob": "2000-07-12",
+        "nationality": "Malaysian",
+        "hire_date": "2025-05-01",
+        "department": "Web Development",
+        "created_at": "2025-05-14 09:06:55",
+        "id": 1747213615
+    }
+]
